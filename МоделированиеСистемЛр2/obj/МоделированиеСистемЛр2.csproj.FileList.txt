@@ -1,0 +1,16 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\МоделированиеСистемЛр2.Properties.Resources.resources
+obj\Debug\МоделированиеСистемЛр2.csproj.GenerateResource.Cache
+bin\Debug\МоделированиеСистемЛр2.exe
+bin\Debug\МоделированиеСистемЛр2.pdb
+obj\Debug\МоделированиеСистемЛр2.exe
+obj\Debug\МоделированиеСистемЛр2.pdb
+obj\Debug\МоделированиеСистемЛр2.Form1.resources
+bin\Release\МоделированиеСистемЛр2.exe
+bin\Release\МоделированиеСистемЛр2.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\МоделированиеСистемЛр2.Form1.resources
+obj\Release\МоделированиеСистемЛр2.Properties.Resources.resources
+obj\Release\МоделированиеСистемЛр2.csproj.GenerateResource.Cache
+obj\Release\МоделированиеСистемЛр2.exe
+obj\Release\МоделированиеСистемЛр2.pdb
